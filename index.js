@@ -1,5 +1,4 @@
 module.exports = {
-  env: { browser: true },
   extends: [
     '@milosys/eslint-config-typescript',
     'plugin:react/recommended',
